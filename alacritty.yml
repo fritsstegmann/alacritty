@@ -1,0 +1,8 @@
+font:
+  normal:
+    family: MonolisaScript
+    style: Regular
+  
+  italic:
+    family: MonolisaScript
+    style: italic
